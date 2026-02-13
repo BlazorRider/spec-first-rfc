@@ -1,0 +1,8 @@
+.internal/
+.mcp.json
+.claude/
+*.local
+.vs/
+bin/
+obj/
+*.user
